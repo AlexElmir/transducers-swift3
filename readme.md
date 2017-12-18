@@ -1,7 +1,7 @@
-# Swift 3
+# Swift 4
 ## Transducers / Reducers 
 
-Code porté pour swift 3, avec l’utilisation du préfixe @escaping.
+Code porté pour swift 4, avec l’utilisation du préfixe @escaping.
 
 Compile sans problèmes.
 
